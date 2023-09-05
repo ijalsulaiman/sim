@@ -20,7 +20,7 @@ Manajer gudang
 
 username : manajergudang
 
-password : mgr
+password : manajer
 
 
 Purchasing
